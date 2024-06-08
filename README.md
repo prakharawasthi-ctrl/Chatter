@@ -20,12 +20,7 @@ Node.js
 npm or yarn
 MongoDB
 Installation
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/chat-application.git
-cd chat-application
 Install dependencies:
 
 For the frontend:
